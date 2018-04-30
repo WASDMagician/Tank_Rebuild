@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Health : MonoBehaviour {
 
+    int lives;
     public int health = 100;
 
     //refactor so it doesn't require passing vehicle

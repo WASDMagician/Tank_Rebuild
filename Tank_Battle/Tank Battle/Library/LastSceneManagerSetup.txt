@@ -1,4 +1,12 @@
+<<<<<<< HEAD
+sceneSetups: []
+=======
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Game Assets/Scenes/Levels/Forest_outpost.unity
+=======
+- path: Assets/Game Assets/Scenes/Levels/Seans_DesertBase.unity
+>>>>>>> dcdf0d543322f81872de74fb5d7b021ecbfddcdf
   isLoaded: 1
   isActive: 1
+>>>>>>> baf48ef663e3190e24ea509ccb33cf1d72086d00

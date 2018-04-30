@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 sceneSetups: []
+=======
+sceneSetups:
+- path: Assets/Game Assets/Scenes/Levels/Desert_Base.unity
+  isLoaded: 1
+  isActive: 1
+>>>>>>> baf48ef663e3190e24ea509ccb33cf1d72086d00

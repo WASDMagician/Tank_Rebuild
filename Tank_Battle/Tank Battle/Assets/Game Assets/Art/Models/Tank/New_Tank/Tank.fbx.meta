@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 58b70e053dc3b5f42bb234061e8fe368
+timeCreated: 1525089857
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: BoltPlate
+    100002: BoltPlate 1
+    100004: Bracket
+    100006: bracket
+    100008: Bracket 1
+    100010: Bracket 2
+    100012: BracketBolt1
+    100014: BracketBolt1 1
+    100016: BracketBolt2
+    100018: BracketBolt2 1
+    100020: Cannister
+    100022: FrontVent
+    100024: Left_Tread
+    100026: LeftBackSidePanel
+    100028: LeftFrontSidePanel
+    100030: LeftSide
+    100032: LeftWheelArch
+    100034: LeftWheelBack
+    100036: LeftWheelBracket
+    100038: LeftWheelFront
+    100040: MainBody
+    100042: pCubeShape4_instancer1_0
+    100044: pCubeShape4_instancer1_0 1
+    100046: pCubeShape4_instancer1_1
+    100048: pCubeShape4_instancer1_1 1
+    100050: pCubeShape4_instancer1_10
+    100052: pCubeShape4_instancer1_10 1
+    100054: pCubeShape4_instancer1_11
+    100056: pCubeShape4_instancer1_11 1
+    100058: pCubeShape4_instancer1_12
+    100060: pCubeShape4_instancer1_12 1
+    100062: pCubeShape4_instancer1_13
+    100064: pCubeShape4_instancer1_13 1
+    100066: pCubeShape4_instancer1_14
+    100068: pCubeShape4_instancer1_14 1
+    100070: pCubeShape4_instancer1_15
+    100072: pCubeShape4_instancer1_15 1
+    100074: pCubeShape4_instancer1_16
+    100076: pCubeShape4_instancer1_16 1
+    100078: pCubeShape4_instancer1_17
+    100080: pCubeShape4_instancer1_17 1
+    100082: pCubeShape4_instancer1_18
+    100084: pCubeShape4_instancer1_18 1
+    100086: pCubeShape4_instancer1_19
+    100088: pCubeShape4_instancer1_19 1
+    100090: pCubeShape4_instancer1_2
+    100092: pCubeShape4_instancer1_2 1
+    100094: pCubeShape4_instancer1_20
+    100096: pCubeShape4_instancer1_20 1
+    100098: pCubeShape4_instancer1_21
+    100100: pCubeShape4_instancer1_21 1
+    100102: pCubeShape4_instancer1_22
+    100104: pCubeShape4_instancer1_22 1
+    100106: pCubeShape4_instancer1_23
+    100108: pCubeShape4_instancer1_23 1
+    100110: pCubeShape4_instancer1_24
+    100112: pCubeShape4_instancer1_24 1
+    100114: pCubeShape4_instancer1_25
+    100116: pCubeShape4_instancer1_25 1
+    100118: pCubeShape4_instancer1_26
+    100120: pCubeShape4_instancer1_26 1
+    100122: pCubeShape4_instancer1_27
+    100124: pCubeShape4_instancer1_27 1
+    100126: pCubeShape4_instancer1_28
+    100128: pCubeShape4_instancer1_28 1
+    100130: pCubeShape4_instancer1_29
+    100132: pCubeShape4_instancer1_29 1
+    100134: pCubeShape4_instancer1_3
+    100136: pCubeShape4_instancer1_3 1
+    100138: pCubeShape4_instancer1_4
+    100140: pCubeShape4_instancer1_4 1
+    100142: pCubeShape4_instancer1_5
+    100144: pCubeShape4_instancer1_5 1
+    100146: pCubeShape4_instancer1_6
+    100148: pCubeShape4_instancer1_6 1
+    100150: pCubeShape4_instancer1_7
+    100152: pCubeShape4_instancer1_7 1
+    100154: pCubeShape4_instancer1_8
+    100156: pCubeShape4_instancer1_8 1
+    100158: pCubeShape4_instancer1_9
+    100160: pCubeShape4_instancer1_9 1
+    100162: pCylinder4
+    100164: Petrol_Tank
+    100166: PetrolTank
+    100168: Pipe
+    100170: Pipe1
+    100172: Pipe2
+    100174: Pipe3
+    100176: Pipe4
+    100178: Pipes
+    100180: Plate
+    100182: Plate 1
+    100184: Plate 2
+    100186: Plate 3
+    100188: PlateBolt1
+    100190: PlateBolt1 1
+    100192: PlateBolt1 2
+    100194: PlateBolt1 3
+    100196: PlateBolt2
+    100198: PlateBolt2 1
+    100200: PlateBolt2 2
+    100202: PlateBolt2 3
+    100204: PlateBolt3
+    100206: PlateBolt3 1
+    100208: PlateBolt3 2
+    100210: PlateBolt3 3
+    100212: PlateBolt4
+    100214: PlateBolt4 1
+    100216: PlateBolt4 2
+    100218: PlateBolt4 3
+    100220: Right_Tread1
+    100222: RightBackSidePanel
+    100224: RightFrontSidePanel
+    100226: RightSide
+    100228: RightWheelArch
+    100230: RightWheelBack
+    100232: RightWheelBracket
+    100234: RightWheelFront
+    100236: SideVent
+    100238: SideVent1
+    100240: //RootNode
+    100242: Tank1
+    100244: VentBase
+    100246: VentFlap1
+    100248: VentFlap2
+    100250: VentFlap3
+    100252: VentFlap4
+    100254: VentFlap5
+    100256: Welding_bracket1
+    100258: Welding_bracket1 1
+    100260: WeldingBridge1
+    100262: WeldingBridge1 1
+    100264: WeldingBridge2
+    100266: WeldingBridge2 1
+    100268: WeldingBridge3
+    100270: WeldingBridge3 1
+    100272: WeldingBridge4
+    100274: WeldingBridge4 1
+    100276: WeldingBridge5
+    100278: WeldingBridge5 1
+    100280: WeldingBridge6
+    100282: WeldingBridge6 1
+    100284: WheelBoltPlate
+    100286: WheelBoltPlate1
+    400000: BoltPlate
+    400002: BoltPlate 1
+    400004: Bracket
+    400006: bracket
+    400008: Bracket 1
+    400010: Bracket 2
+    400012: BracketBolt1
+    400014: BracketBolt1 1
+    400016: BracketBolt2
+    400018: BracketBolt2 1
+    400020: Cannister
+    400022: FrontVent
+    400024: Left_Tread
+    400026: LeftBackSidePanel
+    400028: LeftFrontSidePanel
+    400030: LeftSide
+    400032: LeftWheelArch
+    400034: LeftWheelBack
+    400036: LeftWheelBracket
+    400038: LeftWheelFront
+    400040: MainBody
+    400042: pCubeShape4_instancer1_0
+    400044: pCubeShape4_instancer1_0 1
+    400046: pCubeShape4_instancer1_1
+    400048: pCubeShape4_instancer1_1 1
+    400050: pCubeShape4_instancer1_10
+    400052: pCubeShape4_instancer1_10 1
+    400054: pCubeShape4_instancer1_11
+    400056: pCubeShape4_instancer1_11 1
+    400058: pCubeShape4_instancer1_12
+    400060: pCubeShape4_instancer1_12 1
+    400062: pCubeShape4_instancer1_13
+    400064: pCubeShape4_instancer1_13 1
+    400066: pCubeShape4_instancer1_14
+    400068: pCubeShape4_instancer1_14 1
+    400070: pCubeShape4_instancer1_15
+    400072: pCubeShape4_instancer1_15 1
+    400074: pCubeShape4_instancer1_16
+    400076: pCubeShape4_instancer1_16 1
+    400078: pCubeShape4_instancer1_17
+    400080: pCubeShape4_instancer1_17 1
+    400082: pCubeShape4_instancer1_18
+    400084: pCubeShape4_instancer1_18 1
+    400086: pCubeShape4_instancer1_19
+    400088: pCubeShape4_instancer1_19 1
+    400090: pCubeShape4_instancer1_2
+    400092: pCubeShape4_instancer1_2 1
+    400094: pCubeShape4_instancer1_20
+    400096: pCubeShape4_instancer1_20 1
+    400098: pCubeShape4_instancer1_21
+    400100: pCubeShape4_instancer1_21 1
+    400102: pCubeShape4_instancer1_22
+    400104: pCubeShape4_instancer1_22 1
+    400106: pCubeShape4_instancer1_23
+    400108: pCubeShape4_instancer1_23 1
+    400110: pCubeShape4_instancer1_24
+    400112: pCubeShape4_instancer1_24 1
+    400114: pCubeShape4_instancer1_25
+    400116: pCubeShape4_instancer1_25 1
+    400118: pCubeShape4_instancer1_26
+    400120: pCubeShape4_instancer1_26 1
+    400122: pCubeShape4_instancer1_27
+    400124: pCubeShape4_instancer1_27 1
+    400126: pCubeShape4_instancer1_28
+    400128: pCubeShape4_instancer1_28 1
+    400130: pCubeShape4_instancer1_29
+    400132: pCubeShape4_instancer1_29 1
+    400134: pCubeShape4_instancer1_3
+    400136: pCubeShape4_instancer1_3 1
+    400138: pCubeShape4_instancer1_4
+    400140: pCubeShape4_instancer1_4 1
+    400142: pCubeShape4_instancer1_5
+    400144: pCubeShape4_instancer1_5 1
+    400146: pCubeShape4_instancer1_6
+    400148: pCubeShape4_instancer1_6 1
+    400150: pCubeShape4_instancer1_7
+    400152: pCubeShape4_instancer1_7 1
+    400154: pCubeShape4_instancer1_8
+    400156: pCubeShape4_instancer1_8 1
+    400158: pCubeShape4_instancer1_9
+    400160: pCubeShape4_instancer1_9 1
+    400162: pCylinder4
+    400164: Petrol_Tank
+    400166: PetrolTank
+    400168: Pipe
+    400170: Pipe1
+    400172: Pipe2
+    400174: Pipe3
+    400176: Pipe4
+    400178: Pipes
+    400180: Plate
+    400182: Plate 1
+    400184: Plate 2
+    400186: Plate 3
+    400188: PlateBolt1
+    400190: PlateBolt1 1
+    400192: PlateBolt1 2
+    400194: PlateBolt1 3
+    400196: PlateBolt2
+    400198: PlateBolt2 1
+    400200: PlateBolt2 2
+    400202: PlateBolt2 3
+    400204: PlateBolt3
+    400206: PlateBolt3 1
+    400208: PlateBolt3 2
+    400210: PlateBolt3 3
+    400212: PlateBolt4
+    400214: PlateBolt4 1
+    400216: PlateBolt4 2
+    400218: PlateBolt4 3
+    400220: Right_Tread1
+    400222: RightBackSidePanel
+    400224: RightFrontSidePanel
+    400226: RightSide
+    400228: RightWheelArch
+    400230: RightWheelBack
+    400232: RightWheelBracket
+    400234: RightWheelFront
+    400236: SideVent
+    400238: SideVent1
+    400240: //RootNode
+    400242: Tank1
+    400244: VentBase
+    400246: VentFlap1
+    400248: VentFlap2
+    400250: VentFlap3
+    400252: VentFlap4
+    400254: VentFlap5
+    400256: Welding_bracket1
+    400258: Welding_bracket1 1
+    400260: WeldingBridge1
+    400262: WeldingBridge1 1
+    400264: WeldingBridge2
+    400266: WeldingBridge2 1
+    400268: WeldingBridge3
+    400270: WeldingBridge3 1
+    400272: WeldingBridge4
+    400274: WeldingBridge4 1
+    400276: WeldingBridge5
+    400278: WeldingBridge5 1
+    400280: WeldingBridge6
+    400282: WeldingBridge6 1
+    400284: WheelBoltPlate
+    400286: WheelBoltPlate1
+    2300000: Bracket
+    2300002: bracket
+    2300004: Bracket 1
+    2300006: Bracket 2
+    2300008: BracketBolt1
+    2300010: BracketBolt1 1
+    2300012: BracketBolt2
+    2300014: BracketBolt2 1
+    2300016: LeftBackSidePanel
+    2300018: LeftFrontSidePanel
+    2300020: LeftWheelArch
+    2300022: LeftWheelBack
+    2300024: LeftWheelBracket
+    2300026: LeftWheelFront
+    2300028: MainBody
+    2300030: pCubeShape4_instancer1_0
+    2300032: pCubeShape4_instancer1_0 1
+    2300034: pCubeShape4_instancer1_1
+    2300036: pCubeShape4_instancer1_1 1
+    2300038: pCubeShape4_instancer1_10
+    2300040: pCubeShape4_instancer1_10 1
+    2300042: pCubeShape4_instancer1_11
+    2300044: pCubeShape4_instancer1_11 1
+    2300046: pCubeShape4_instancer1_12
+    2300048: pCubeShape4_instancer1_12 1
+    2300050: pCubeShape4_instancer1_13
+    2300052: pCubeShape4_instancer1_13 1
+    2300054: pCubeShape4_instancer1_14
+    2300056: pCubeShape4_instancer1_14 1
+    2300058: pCubeShape4_instancer1_15
+    2300060: pCubeShape4_instancer1_15 1
+    2300062: pCubeShape4_instancer1_16
+    2300064: pCubeShape4_instancer1_16 1
+    2300066: pCubeShape4_instancer1_17
+    2300068: pCubeShape4_instancer1_17 1
+    2300070: pCubeShape4_instancer1_18
+    2300072: pCubeShape4_instancer1_18 1
+    2300074: pCubeShape4_instancer1_19
+    2300076: pCubeShape4_instancer1_19 1
+    2300078: pCubeShape4_instancer1_2
+    2300080: pCubeShape4_instancer1_2 1
+    2300082: pCubeShape4_instancer1_20
+    2300084: pCubeShape4_instancer1_20 1
+    2300086: pCubeShape4_instancer1_21
+    2300088: pCubeShape4_instancer1_21 1
+    2300090: pCubeShape4_instancer1_22
+    2300092: pCubeShape4_instancer1_22 1
+    2300094: pCubeShape4_instancer1_23
+    2300096: pCubeShape4_instancer1_23 1
+    2300098: pCubeShape4_instancer1_24
+    2300100: pCubeShape4_instancer1_24 1
+    2300102: pCubeShape4_instancer1_25
+    2300104: pCubeShape4_instancer1_25 1
+    2300106: pCubeShape4_instancer1_26
+    2300108: pCubeShape4_instancer1_26 1
+    2300110: pCubeShape4_instancer1_27
+    2300112: pCubeShape4_instancer1_27 1
+    2300114: pCubeShape4_instancer1_28
+    2300116: pCubeShape4_instancer1_28 1
+    2300118: pCubeShape4_instancer1_29
+    2300120: pCubeShape4_instancer1_29 1
+    2300122: pCubeShape4_instancer1_3
+    2300124: pCubeShape4_instancer1_3 1
+    2300126: pCubeShape4_instancer1_4
+    2300128: pCubeShape4_instancer1_4 1
+    2300130: pCubeShape4_instancer1_5
+    2300132: pCubeShape4_instancer1_5 1
+    2300134: pCubeShape4_instancer1_6
+    2300136: pCubeShape4_instancer1_6 1
+    2300138: pCubeShape4_instancer1_7
+    2300140: pCubeShape4_instancer1_7 1
+    2300142: pCubeShape4_instancer1_8
+    2300144: pCubeShape4_instancer1_8 1
+    2300146: pCubeShape4_instancer1_9
+    2300148: pCubeShape4_instancer1_9 1
+    2300150: pCylinder4
+    2300152: PetrolTank
+    2300154: Pipe
+    2300156: Pipe1
+    2300158: Pipe2
+    2300160: Pipe3
+    2300162: Pipe4
+    2300164: Plate
+    2300166: Plate 1
+    2300168: Plate 2
+    2300170: Plate 3
+    2300172: PlateBolt1
+    2300174: PlateBolt1 1
+    2300176: PlateBolt1 2
+    2300178: PlateBolt1 3
+    2300180: PlateBolt2
+    2300182: PlateBolt2 1
+    2300184: PlateBolt2 2
+    2300186: PlateBolt2 3
+    2300188: PlateBolt3
+    2300190: PlateBolt3 1
+    2300192: PlateBolt3 2
+    2300194: PlateBolt3 3
+    2300196: PlateBolt4
+    2300198: PlateBolt4 1
+    2300200: PlateBolt4 2
+    2300202: PlateBolt4 3
+    2300204: RightBackSidePanel
+    2300206: RightFrontSidePanel
+    2300208: RightWheelArch
+    2300210: RightWheelBack
+    2300212: RightWheelBracket
+    2300214: RightWheelFront
+    2300216: SideVent
+    2300218: SideVent1
+    2300220: VentBase
+    2300222: VentFlap1
+    2300224: VentFlap2
+    2300226: VentFlap3
+    2300228: VentFlap4
+    2300230: VentFlap5
+    2300232: WeldingBridge1
+    2300234: WeldingBridge1 1
+    2300236: WeldingBridge2
+    2300238: WeldingBridge2 1
+    2300240: WeldingBridge3
+    2300242: WeldingBridge3 1
+    2300244: WeldingBridge4
+    2300246: WeldingBridge4 1
+    2300248: WeldingBridge5
+    2300250: WeldingBridge5 1
+    2300252: WeldingBridge6
+    2300254: WeldingBridge6 1
+    3300000: Bracket
+    3300002: bracket
+    3300004: Bracket 1
+    3300006: Bracket 2
+    3300008: BracketBolt1
+    3300010: BracketBolt1 1
+    3300012: BracketBolt2
+    3300014: BracketBolt2 1
+    3300016: LeftBackSidePanel
+    3300018: LeftFrontSidePanel
+    3300020: LeftWheelArch
+    3300022: LeftWheelBack
+    3300024: LeftWheelBracket
+    3300026: LeftWheelFront
+    3300028: MainBody
+    3300030: pCubeShape4_instancer1_0
+    3300032: pCubeShape4_instancer1_0 1
+    3300034: pCubeShape4_instancer1_1
+    3300036: pCubeShape4_instancer1_1 1
+    3300038: pCubeShape4_instancer1_10
+    3300040: pCubeShape4_instancer1_10 1
+    3300042: pCubeShape4_instancer1_11
+    3300044: pCubeShape4_instancer1_11 1
+    3300046: pCubeShape4_instancer1_12
+    3300048: pCubeShape4_instancer1_12 1
+    3300050: pCubeShape4_instancer1_13
+    3300052: pCubeShape4_instancer1_13 1
+    3300054: pCubeShape4_instancer1_14
+    3300056: pCubeShape4_instancer1_14 1
+    3300058: pCubeShape4_instancer1_15
+    3300060: pCubeShape4_instancer1_15 1
+    3300062: pCubeShape4_instancer1_16
+    3300064: pCubeShape4_instancer1_16 1
+    3300066: pCubeShape4_instancer1_17
+    3300068: pCubeShape4_instancer1_17 1
+    3300070: pCubeShape4_instancer1_18
+    3300072: pCubeShape4_instancer1_18 1
+    3300074: pCubeShape4_instancer1_19
+    3300076: pCubeShape4_instancer1_19 1
+    3300078: pCubeShape4_instancer1_2
+    3300080: pCubeShape4_instancer1_2 1
+    3300082: pCubeShape4_instancer1_20
+    3300084: pCubeShape4_instancer1_20 1
+    3300086: pCubeShape4_instancer1_21
+    3300088: pCubeShape4_instancer1_21 1
+    3300090: pCubeShape4_instancer1_22
+    3300092: pCubeShape4_instancer1_22 1
+    3300094: pCubeShape4_instancer1_23
+    3300096: pCubeShape4_instancer1_23 1
+    3300098: pCubeShape4_instancer1_24
+    3300100: pCubeShape4_instancer1_24 1
+    3300102: pCubeShape4_instancer1_25
+    3300104: pCubeShape4_instancer1_25 1
+    3300106: pCubeShape4_instancer1_26
+    3300108: pCubeShape4_instancer1_26 1
+    3300110: pCubeShape4_instancer1_27
+    3300112: pCubeShape4_instancer1_27 1
+    3300114: pCubeShape4_instancer1_28
+    3300116: pCubeShape4_instancer1_28 1
+    3300118: pCubeShape4_instancer1_29
+    3300120: pCubeShape4_instancer1_29 1
+    3300122: pCubeShape4_instancer1_3
+    3300124: pCubeShape4_instancer1_3 1
+    3300126: pCubeShape4_instancer1_4
+    3300128: pCubeShape4_instancer1_4 1
+    3300130: pCubeShape4_instancer1_5
+    3300132: pCubeShape4_instancer1_5 1
+    3300134: pCubeShape4_instancer1_6
+    3300136: pCubeShape4_instancer1_6 1
+    3300138: pCubeShape4_instancer1_7
+    3300140: pCubeShape4_instancer1_7 1
+    3300142: pCubeShape4_instancer1_8
+    3300144: pCubeShape4_instancer1_8 1
+    3300146: pCubeShape4_instancer1_9
+    3300148: pCubeShape4_instancer1_9 1
+    3300150: pCylinder4
+    3300152: PetrolTank
+    3300154: Pipe
+    3300156: Pipe1
+    3300158: Pipe2
+    3300160: Pipe3
+    3300162: Pipe4
+    3300164: Plate
+    3300166: Plate 1
+    3300168: Plate 2
+    3300170: Plate 3
+    3300172: PlateBolt1
+    3300174: PlateBolt1 1
+    3300176: PlateBolt1 2
+    3300178: PlateBolt1 3
+    3300180: PlateBolt2
+    3300182: PlateBolt2 1
+    3300184: PlateBolt2 2
+    3300186: PlateBolt2 3
+    3300188: PlateBolt3
+    3300190: PlateBolt3 1
+    3300192: PlateBolt3 2
+    3300194: PlateBolt3 3
+    3300196: PlateBolt4
+    3300198: PlateBolt4 1
+    3300200: PlateBolt4 2
+    3300202: PlateBolt4 3
+    3300204: RightBackSidePanel
+    3300206: RightFrontSidePanel
+    3300208: RightWheelArch
+    3300210: RightWheelBack
+    3300212: RightWheelBracket
+    3300214: RightWheelFront
+    3300216: SideVent
+    3300218: SideVent1
+    3300220: VentBase
+    3300222: VentFlap1
+    3300224: VentFlap2
+    3300226: VentFlap3
+    3300228: VentFlap4
+    3300230: VentFlap5
+    3300232: WeldingBridge1
+    3300234: WeldingBridge1 1
+    3300236: WeldingBridge2
+    3300238: WeldingBridge2 1
+    3300240: WeldingBridge3
+    3300242: WeldingBridge3 1
+    3300244: WeldingBridge4
+    3300246: WeldingBridge4 1
+    3300248: WeldingBridge5
+    3300250: WeldingBridge5 1
+    3300252: WeldingBridge6
+    3300254: WeldingBridge6 1
+    4300000: MainBody
+    4300002: Plate
+    4300004: PlateBolt1
+    4300006: PlateBolt2
+    4300008: PlateBolt3
+    4300010: PlateBolt4
+    4300012: BracketBolt1
+    4300014: BracketBolt2
+    4300016: Bracket
+    4300018: LeftWheelFront
+    4300020: LeftBackSidePanel
+    4300022: LeftFrontSidePanel
+    4300024: LeftWheelBack
+    4300026: LeftWheelArch
+    4300028: SideVent1
+    4300030: WeldingBridge1
+    4300032: WeldingBridge2
+    4300034: WeldingBridge3
+    4300036: WeldingBridge4
+    4300038: WeldingBridge5
+    4300040: WeldingBridge6
+    4300042: LeftWheelBracket
+    4300044: Plate
+    4300046: PlateBolt1
+    4300048: PlateBolt2
+    4300050: PlateBolt3
+    4300052: PlateBolt4
+    4300054: pCubeShape4_instancer1_0
+    4300056: pCubeShape4_instancer1_1
+    4300058: pCubeShape4_instancer1_2
+    4300060: pCubeShape4_instancer1_3
+    4300062: pCubeShape4_instancer1_4
+    4300064: pCubeShape4_instancer1_5
+    4300066: pCubeShape4_instancer1_6
+    4300068: pCubeShape4_instancer1_7
+    4300070: pCubeShape4_instancer1_8
+    4300072: pCubeShape4_instancer1_9
+    4300074: pCubeShape4_instancer1_10
+    4300076: pCubeShape4_instancer1_11
+    4300078: pCubeShape4_instancer1_12
+    4300080: pCubeShape4_instancer1_13
+    4300082: pCubeShape4_instancer1_14
+    4300084: pCubeShape4_instancer1_15
+    4300086: pCubeShape4_instancer1_16
+    4300088: pCubeShape4_instancer1_17
+    4300090: pCubeShape4_instancer1_18
+    4300092: pCubeShape4_instancer1_19
+    4300094: pCubeShape4_instancer1_20
+    4300096: pCubeShape4_instancer1_21
+    4300098: pCubeShape4_instancer1_22
+    4300100: pCubeShape4_instancer1_23
+    4300102: pCubeShape4_instancer1_24
+    4300104: pCubeShape4_instancer1_25
+    4300106: pCubeShape4_instancer1_26
+    4300108: pCubeShape4_instancer1_27
+    4300110: pCubeShape4_instancer1_28
+    4300112: pCubeShape4_instancer1_29
+    4300114: pCylinder4
+    4300116: bracket
+    4300118: VentFlap1
+    4300120: VentFlap2
+    4300122: VentFlap3
+    4300124: VentFlap4
+    4300126: VentFlap5
+    4300128: VentBase
+    4300130: PetrolTank
+    4300132: Bracket
+    4300134: Plate
+    4300136: PlateBolt1
+    4300138: PlateBolt2
+    4300140: PlateBolt3
+    4300142: PlateBolt4
+    4300144: BracketBolt1
+    4300146: BracketBolt2
+    4300148: Bracket
+    4300150: SideVent
+    4300152: RightWheelFront
+    4300154: RightWheelBack
+    4300156: RightBackSidePanel
+    4300158: RightFrontSidePanel
+    4300160: RightWheelArch
+    4300162: WeldingBridge1
+    4300164: WeldingBridge2
+    4300166: WeldingBridge3
+    4300168: WeldingBridge4
+    4300170: WeldingBridge5
+    4300172: WeldingBridge6
+    4300174: RightWheelBracket
+    4300176: Plate
+    4300178: PlateBolt1
+    4300180: PlateBolt2
+    4300182: PlateBolt3
+    4300184: PlateBolt4
+    4300186: pCubeShape4_instancer1_0
+    4300188: pCubeShape4_instancer1_1
+    4300190: pCubeShape4_instancer1_2
+    4300192: pCubeShape4_instancer1_3
+    4300194: pCubeShape4_instancer1_4
+    4300196: pCubeShape4_instancer1_5
+    4300198: pCubeShape4_instancer1_6
+    4300200: pCubeShape4_instancer1_7
+    4300202: pCubeShape4_instancer1_8
+    4300204: pCubeShape4_instancer1_9
+    4300206: pCubeShape4_instancer1_10
+    4300208: pCubeShape4_instancer1_11
+    4300210: pCubeShape4_instancer1_12
+    4300212: pCubeShape4_instancer1_13
+    4300214: pCubeShape4_instancer1_14
+    4300216: pCubeShape4_instancer1_15
+    4300218: pCubeShape4_instancer1_16
+    4300220: pCubeShape4_instancer1_17
+    4300222: pCubeShape4_instancer1_18
+    4300224: pCubeShape4_instancer1_19
+    4300226: pCubeShape4_instancer1_20
+    4300228: pCubeShape4_instancer1_21
+    4300230: pCubeShape4_instancer1_22
+    4300232: pCubeShape4_instancer1_23
+    4300234: pCubeShape4_instancer1_24
+    4300236: pCubeShape4_instancer1_25
+    4300238: pCubeShape4_instancer1_26
+    4300240: pCubeShape4_instancer1_27
+    4300242: pCubeShape4_instancer1_28
+    4300244: pCubeShape4_instancer1_29
+    4300246: Pipe
+    4300248: Pipe1
+    4300250: Pipe2
+    4300252: Pipe3
+    4300254: Pipe4
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

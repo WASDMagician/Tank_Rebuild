@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: c1d7d32d1b9bc8a4dbdf9e38b0e81046
+timeCreated: 1525089974
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Ammo
+    100002: Ammo1
+    100004: Barrel
+    100006: Barrel1
+    100008: Belt
+    100010: Belt 1
+    100012: bracket
+    100014: bracket 1
+    100016: Cartridge
+    100018: Cartridge 1
+    100020: Cartridge1
+    100022: Cartridge1 1
+    100024: Cartridge2
+    100026: Cartridge2 1
+    100028: Cartridge3
+    100030: Cartridge3 1
+    100032: Cartridge4
+    100034: Cartridge4 1
+    100036: Cartridge5
+    100038: Cartridge5 1
+    100040: Cartridge6
+    100042: Cartridge6 1
+    100044: LeftSide
+    100046: //RootNode
+    100048: MachineGunCannister
+    100050: MachineGunCannister1
+    100052: MainBody
+    100054: MainBody1
+    100056: MainHousing
+    100058: pCylinder4
+    100060: pCylinder4 1
+    100062: RightSide
+    100064: UnderBarrel
+    100066: UnderBarrel1
+    400000: Ammo
+    400002: Ammo1
+    400004: Barrel
+    400006: Barrel1
+    400008: Belt
+    400010: Belt 1
+    400012: bracket
+    400014: bracket 1
+    400016: Cartridge
+    400018: Cartridge 1
+    400020: Cartridge1
+    400022: Cartridge1 1
+    400024: Cartridge2
+    400026: Cartridge2 1
+    400028: Cartridge3
+    400030: Cartridge3 1
+    400032: Cartridge4
+    400034: Cartridge4 1
+    400036: Cartridge5
+    400038: Cartridge5 1
+    400040: Cartridge6
+    400042: Cartridge6 1
+    400044: LeftSide
+    400046: //RootNode
+    400048: MachineGunCannister
+    400050: MachineGunCannister1
+    400052: MainBody
+    400054: MainBody1
+    400056: MainHousing
+    400058: pCylinder4
+    400060: pCylinder4 1
+    400062: RightSide
+    400064: UnderBarrel
+    400066: UnderBarrel1
+    2300000: Barrel
+    2300002: Barrel1
+    2300004: Belt
+    2300006: Belt 1
+    2300008: bracket
+    2300010: bracket 1
+    2300012: Cartridge
+    2300014: Cartridge 1
+    2300016: Cartridge1
+    2300018: Cartridge1 1
+    2300020: Cartridge2
+    2300022: Cartridge2 1
+    2300024: Cartridge3
+    2300026: Cartridge3 1
+    2300028: Cartridge4
+    2300030: Cartridge4 1
+    2300032: Cartridge5
+    2300034: Cartridge5 1
+    2300036: Cartridge6
+    2300038: Cartridge6 1
+    2300040: MainBody
+    2300042: MainBody1
+    2300044: MainHousing
+    2300046: pCylinder4
+    2300048: pCylinder4 1
+    2300050: UnderBarrel
+    2300052: UnderBarrel1
+    3300000: Barrel
+    3300002: Barrel1
+    3300004: Belt
+    3300006: Belt 1
+    3300008: bracket
+    3300010: bracket 1
+    3300012: Cartridge
+    3300014: Cartridge 1
+    3300016: Cartridge1
+    3300018: Cartridge1 1
+    3300020: Cartridge2
+    3300022: Cartridge2 1
+    3300024: Cartridge3
+    3300026: Cartridge3 1
+    3300028: Cartridge4
+    3300030: Cartridge4 1
+    3300032: Cartridge5
+    3300034: Cartridge5 1
+    3300036: Cartridge6
+    3300038: Cartridge6 1
+    3300040: MainBody
+    3300042: MainBody1
+    3300044: MainHousing
+    3300046: pCylinder4
+    3300048: pCylinder4 1
+    3300050: UnderBarrel
+    3300052: UnderBarrel1
+    4300000: MainHousing
+    4300002: UnderBarrel1
+    4300004: Barrel1
+    4300006: Belt
+    4300008: Cartridge
+    4300010: Cartridge1
+    4300012: Cartridge2
+    4300014: Cartridge3
+    4300016: Cartridge4
+    4300018: Cartridge5
+    4300020: Cartridge6
+    4300022: MainBody1
+    4300024: pCylinder4
+    4300026: bracket
+    4300028: pCylinder4
+    4300030: bracket
+    4300032: MainBody
+    4300034: Belt
+    4300036: Cartridge
+    4300038: Cartridge1
+    4300040: Cartridge2
+    4300042: Cartridge3
+    4300044: Cartridge4
+    4300046: Cartridge5
+    4300048: Cartridge6
+    4300050: Barrel
+    4300052: UnderBarrel
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
